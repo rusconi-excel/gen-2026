@@ -1,11 +1,11 @@
-# Benvenuti al Corso Intermedio
+# Corso Intermedio per l'uso di Microsoft Excel
 
-Benvenuti al **Corso Intermedio di Microsoft Excel**.  
-In questo repository troverete materiali, risorse e file utili per seguire le lezioni e approfondire gli argomenti trattati.
+Benvenuto al corso!  
+Qui troverai materiali, risorse e file utili per seguire le lezioni e approfondire gli argomenti trattati.
 
 ---
 
-## 📅 Calendario del corso
+## Calendario del corso
 
 Il corso si svolge in **3 giorni**, con il seguente orario:
 
@@ -15,7 +15,16 @@ Il corso si svolge in **3 giorni**, con il seguente orario:
 
 ---
 
-## 📚 Risorse utili
+## Argomenti principali
+
+- Utilizzo e formattazione del foglio di lavoro (formattazione dati e celle, formattazione condizionale, creazione e gestione di tabelle, operazioni aritmetiche e riferimenti assoluti).
+- Utilizzo delle funzioni logiche e di analisi dei dati (funzione SE, filtri automatici e subtotali, analisi e utilizzo dei dati.
+- Tabelle PIVOT.
+- Applicazioni pratiche del programma: Excel in ufficio.
+
+---
+
+## Risorse utili
 
 Di seguito alcuni materiali consigliati per lo studio e l’esercitazione:
 
