@@ -9,9 +9,9 @@ Qui troverai materiali, risorse e file utili per seguire le lezioni e approfondi
 
 Il corso si svolge in **3 giorni**, con il seguente orario:
 
-- **Giovedì 15 gennaio:** 14:00 – 18:00  
-- **Giovedì 22 gennaio:** 14:00 – 18:00  
-- **Giovedì 29 gennaio:** 14:00 – 18:00  
+- **Giovedì 07 maggio:** 14:00 – 18:00  
+- **Giovedì 14 maggio:** 14:00 – 18:00  
+- **Giovedì 21 maggio:** 14:00 – 18:00  
 
 ---
 
